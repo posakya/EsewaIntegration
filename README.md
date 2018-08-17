@@ -6,7 +6,7 @@ flatDir {
             dirs 'libs'
         }
         
-        like :
+  as this
 allprojects {
     repositories {
         google()
